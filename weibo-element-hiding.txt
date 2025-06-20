@@ -1,0 +1,10 @@
+```plaintext
+! 微博元素隐藏规则
+weibo.com##.ads-attract
+weibo.com##.UG_box, .UG_slider, .UG_content
+weibo.com##[action-type="feed_list_ad"]
+weibo.com##[node-type="adwrap"]
+weibo.cn##.card-wrap[action-type="feed_list_ad"]
+weibo.cn##.m-auto-col, .mob-ads
+weibo.com###plc_main > div > div > div:nth-child(5)
+```
