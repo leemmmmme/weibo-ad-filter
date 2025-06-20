@@ -1,0 +1,27 @@
+```plaintext
+! 微博广告过滤规则 v2.5
+! 更新时间: {{date}}
+! 项目地址: https://github.com/leemmmmme/weibo-ad-filter
+
+||ad.sina.com.cn^
+||s.alitui.weibo.com^
+||u1.img.mobile.sina.cn^
+||wbapp.mobile.sina.cn^
+||sdkapp.mobile.sina.cn^
+||adimg.vue.mobile.sina.cn^
+||tjs.sjs.sinajs.cn^
+||sax.sina.com.cn^
+||beacon.sina.com.cn^
+||uve.weibo.com^
+||adimages.sina.com.hk^
+||game.weibo.com^
+||vip.weibo.cn^
+||simg.s.weibo.com^$image
+
+! 2025年新增域名
+||ad-campaign.weibo.cn^
+||tracker.weibo.com^
+||adx.weibo.com^
+||promotion.sina.com.cn^
+||adengine.weibo.cn^
+```
